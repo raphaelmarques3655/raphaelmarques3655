@@ -58,15 +58,7 @@ Tenho interesse em programação, desenvolvimento web e criação de soluções 
 
 
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=raphaelmarques3655&show_icons=true&locale=pt-br&include_all_commits=true&count_private=true&bg_color=000000&title_color=00A8FF&text_color=FFFFFF&icon_color=00A8FF&border_color=0077FF&custom_title=My%20GitHub%20Statistics" alt="GitHub Stats">
-
-<br><br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmarques3655&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=00A8FF&text_color=FFFFFF&border_color=0077FF" alt="Top Languages">
-
-</div>
 
 #
 
