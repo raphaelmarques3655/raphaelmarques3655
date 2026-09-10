@@ -70,13 +70,7 @@ Tenho interesse em programação, desenvolvimento web e criação de soluções 
 
 #
 
-<h3 align="center">🐍 Contributions</h3>
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/raphaelmarques3655/raphaelmarques3655/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation">
-
-</div>
 
 #
 
