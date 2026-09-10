@@ -70,7 +70,7 @@ Tenho interesse em programação, desenvolvimento web e criação de soluções 
 
 #
 
-<h3 align="center">🐍 Contributions</h3>
+
 
 <div align="center">
 
